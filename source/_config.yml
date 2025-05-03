@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: https://github.com/waacorg/waacweb.github.io.git
+  branch: main
