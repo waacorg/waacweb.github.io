@@ -22,7 +22,7 @@ WAAC aims to advance global theoretical innovation, technological development, a
 
 ## Founding Leadership
 
-The inaugural president is **Prof. Duan Yucong**, a renowned pioneer of artificial consciousness and the **DIKWP theory**, also serving as Chairman of the WAAC and President of the World Conference on Artificial Consciousness. Yingbo Li serves as General Secretary of WAAC and Vice Chairment of the World Conference on Artificial Consciousness. 
+The inaugural president is **Prof. Duan Yucong**, a renowned pioneer of artificial consciousness and the **DIKWP theory**, also serving as Chairman of the WAAC and President of the World Conference on Artificial Consciousness. **Yingbo Li** serves as General Secretary of WAAC and Vice Chairment of the World Conference on Artificial Consciousness. 
 
 > “The establishment of the Academy marks a new era in global artificial consciousness research. Through international collaboration, we will systematically advance cutting-edge exploration in this field to achieve a harmonious interaction between technology and ethics.”  
 > — *Prof. Duan Yucong*
