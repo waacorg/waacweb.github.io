@@ -101,4 +101,6 @@ theme: corporate
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github-lantuzi:waacorg/waacweb.github.io.git
+  branch: main
