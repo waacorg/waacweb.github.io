@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: WAAC | World Academy for Artificial Consciousness
+subtitle: Official Site
+description: Advancing global research in artificial consciousness
+keywords: artificial consciousness, artificial intelligence, academy
+author: WAAC Editorial
+email: contact@waac.com
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://www.waac.ac
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -60,9 +61,10 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
-  per_page: 10
-  order_by: -date
+  path: false
+  # path: ''
+  # per_page: 0
+  # order_by: -date
 
 # Category & Tag
 default_category: uncategorized
