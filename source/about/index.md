@@ -16,5 +16,3 @@ Its mission is to advance global cooperation and frontier research in artificial
 - Build the global AI consciousness research community  
 - Promote the “DIKWP Model” of artificial consciousness  
 - Develop standards and ethics for AI applications
-
-📄 [Download WAAC Founding Press Release (PDF)](/files/WAAC-Established.pdf)
