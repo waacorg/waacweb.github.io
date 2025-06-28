@@ -1,0 +1,91 @@
+
+body {
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  background: #ffffff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+h1, h2 {
+  color: #003366;
+  margin-top: 2rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+ul.breadcrumb {
+  padding: 0;
+  margin-bottom: 2rem;
+  list-style: none;
+  background: none;
+  font-size: 0.9rem;
+  color: #888;
+}
+
+ul.breadcrumb li {
+  display: inline;
+  margin-right: 5px;
+}
+
+ul.breadcrumb li::after {
+  content: "›";
+  margin-left: 5px;
+  color: #ccc;
+}
+
+ul.breadcrumb li:last-child::after {
+  content: "";
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+  color: #666;
+  margin: 1.5rem 0;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #003366;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #00509e;
+}
+
+.btn-outline {
+  border: 2px solid #003366;
+  color: #003366;
+  background: none;
+}
+
+.btn-outline:hover {
+  background-color: #003366;
+  color: white;
+}
