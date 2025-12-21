@@ -53,10 +53,10 @@ export function Footer() {
                     <p className="text-xs text-slate-600">
                         © {new Date().getFullYear()} World Academy for Artificial Consciousness (WAAC). All rights reserved.
                     </p>
-                    <div className="flex gap-8 text-xs text-slate-600 uppercase tracking-widest">
+                    {/* <div className="flex gap-8 text-xs text-slate-600 uppercase tracking-widest">
                         <Link href="/privacy" className="hover:text-white transition-colors">Privacy Policy</Link>
                         <Link href="/terms" className="hover:text-white transition-colors">Terms of Service</Link>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </footer>
