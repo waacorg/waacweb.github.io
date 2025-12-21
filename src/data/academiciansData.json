@@ -1,0 +1,554 @@
+[
+  {
+    "id": "Morten-Peter-Meldal",
+    "name": "Morten Peter Meldal",
+    "image": "/images/media/53.png",
+    "role": "WAAC Academician, Nobel Prize in Chemistry (2022)",
+    "description": "Copper-catalyzed azide–alkyne cycloaddition (click chemistry)",
+    "institution": "WAAC Academician, Nobel Prize in Chemistry (2022)"
+  },
+  {
+    "id": "Françoise-Barre-Sinoussi",
+    "name": "Françoise Barré-Sinoussi",
+    "image": "/images/media/25.png",
+    "role": "WAAC Academician, Nobel Prize in Physiology or Medicine (2008)",
+    "description": "Discovery of human immunodeficiency virus (HIV)",
+    "institution": "WAAC Academician, Nobel Prize in Physiology or Medicine (2008)"
+  },
+  {
+    "id": "Takaaki-Kajita",
+    "name": "Takaaki Kajita",
+    "image": "/images/media/59a.png",
+    "role": "WAAC Academician, Nobel Prize in Physics (2015)",
+    "description": "Atmospheric neutrino oscillations",
+    "institution": "WAAC Academician, Nobel Prize in Physics (2015)"
+  },
+  {
+    "id": "H.-Robert-Horvitz",
+    "name": "H. Robert Horvitz",
+    "image": "/images/media/30.png",
+    "role": "WAAC Academician, Nobel Prize in Physiology or Medicine (2002)",
+    "description": "Programmed cell death in C. elegans; neural circuits",
+    "institution": "WAAC Academician, Nobel Prize in Physiology or Medicine (2002)"
+  },
+  {
+    "id": "James-J.-Heckman",
+    "name": "James J. Heckman",
+    "image": "/images/media/36.png",
+    "role": "WAAC Academician, Nobel Prize in Economic Sciences (2000)",
+    "description": "Economics; behavioral modeling and consciousness",
+    "institution": "WAAC Academician, Nobel Prize in Economic Sciences (2000)"
+  },
+  {
+    "id": "May-Britt-Moser",
+    "name": "May-Britt Moser",
+    "image": "/images/media/63.png",
+    "role": "WAAC Academician, Nobel Prize in Physiology or Medicine(2014)",
+    "description": "Discovery of grid cells and spatial navigation",
+    "institution": "WAAC Academician, Nobel Prize in Physiology or Medicine(2014)"
+  },
+  {
+    "id": "Ronald-L.-Rivest",
+    "name": "Ronald L. Rivest",
+    "image": "/images/media/54.png",
+    "role": "WAAC Academician, ACM A.M. Turing Award (2002)",
+    "description": "RSA public-key cryptosystem",
+    "institution": "WAAC Academician, ACM A.M. Turing Award (2002)"
+  },
+  {
+    "id": "Laurent-Itti",
+    "name": "Laurent Itti",
+    "image": "/images/media/2.png",
+    "role": "WAAC Academician, IEEE Fellow (2017)",
+    "description": "Computational models of visual salience and attention",
+    "institution": "WAAC Academician, IEEE Fellow (2017)"
+  },
+  {
+    "id": "Li-Huei-Tsai",
+    "name": "Li-Huei Tsai",
+    "image": "/images/media/3.png",
+    "role": "WAAC Academician, Member of the U.S. National Academy of Sciences (2018)",
+    "description": "Alzheimer’s disease mechanisms; gamma-band stimulation",
+    "institution": "WAAC Academician, Member of the U.S. National Academy of Sciences (2018)"
+  },
+  {
+    "id": "Lucia-Regolin",
+    "name": "Lucia Regolin",
+    "image": "/images/media/4.png",
+    "role": "WAAC Academician, Italian national research funding",
+    "description": "Animal cognition and consciousness; innate representations",
+    "institution": "WAAC Academician, Italian national research funding"
+  },
+  {
+    "id": "Bruno-van-Swinderen",
+    "name": "Bruno van Swinderen",
+    "image": "/images/media/5.png",
+    "role": "WAAC Academician, Australian Research Council funding",
+    "description": "Drosophila consciousness and sleep; cross-species consciousness",
+    "institution": "WAAC Academician, Australian Research Council funding"
+  },
+  {
+    "id": "Barbara-Tversky",
+    "name": "Barbara Tversky",
+    "image": "/images/media/6.png",
+    "role": "WAAC Academician, Association for Psychological Science (APS) Fellow",
+    "description": "Cognitive psychology; spatial thinking and consciousness",
+    "institution": "WAAC Academician, Association for Psychological Science (APS) Fellow"
+  },
+  {
+    "id": "Adam-Zeman",
+    "name": "Adam Zeman",
+    "image": "/images/media/7.png",
+    "role": "WAAC Academician, British Academy-related honors and book awards",
+    "description": "Aphantasia and mental imagery; consciousness and autobiographical memory",
+    "institution": "WAAC Academician, British Academy-related honors and book awards"
+  },
+  {
+    "id": "Andrew-Adamatzky",
+    "name": "Andrew Adamatzky",
+    "image": "/images/media/8.png",
+    "role": "WAAC Academician, British Computer Society (BCS) Fellow",
+    "description": "Unconventional computing and self-organization; cues to artificial consciousness",
+    "institution": "WAAC Academician, British Computer Society (BCS) Fellow"
+  },
+  {
+    "id": "Adam-Gazzaley",
+    "name": "Adam Gazzaley",
+    "image": "/images/media/9.png",
+    "role": "WAAC Academician, U.S. National Institutes of Health funding",
+    "description": "Attention and aging; consciousness and cognitive control",
+    "institution": "WAAC Academician, U.S. National Institutes of Health funding"
+  },
+  {
+    "id": "Christoph-Gerber",
+    "name": "Christoph Gerber",
+    "image": "/images/media/10.png",
+    "role": "WAAC Academician, 2016 Kavli Prize in Nanoscience",
+    "description": "Atomic force microscopy for biomolecular interactions",
+    "institution": "WAAC Academician, 2016 Kavli Prize in Nanoscience"
+  },
+  {
+    "id": "Barbara-J.-Sahakian",
+    "name": "Barbara J. Sahakian",
+    "image": "/images/media/11.png",
+    "role": "WAAC Academician, Fellow of the British Academy",
+    "description": "Cognitive enhancement and ethics; consciousness and decision-making",
+    "institution": "WAAC Academician, Fellow of the British Academy"
+  },
+  {
+    "id": "Arnaud-Delorme",
+    "name": "Arnaud Delorme",
+    "image": "/images/media/12.png",
+    "role": "WAAC Academician, CNRS awards",
+    "description": "EEG and meditation; oscillations of consciousness",
+    "institution": "WAAC Academician, CNRS awards"
+  },
+  {
+    "id": "Angela-D.-Friederici",
+    "name": "Angela D. Friederici",
+    "image": "/images/media/13.png",
+    "role": "WAAC Academician, Member of the German Academy of Sciences (2007)",
+    "description": "Neural basis of language processing",
+    "institution": "WAAC Academician, Member of the German Academy of Sciences (2007)"
+  },
+  {
+    "id": "Elizabeth-F.-Loftus",
+    "name": "Elizabeth F. Loftus",
+    "image": "/images/media/14.png",
+    "role": "WAAC Academician, Member of the U.S. National Academy of Sciences (1994)",
+    "description": "Malleability of human memory; eyewitness testimony",
+    "institution": "WAAC Academician, Member of the U.S. National Academy of Sciences (1994)"
+  },
+  {
+    "id": "Douglas-Medin",
+    "name": "Douglas Medin",
+    "image": "/images/media/15.png",
+    "role": "WAAC Academician, Member of the U.S. National Academy of Sciences",
+    "description": "Cognitive psychology; culture and consciousness",
+    "institution": "WAAC Academician, Member of the U.S. National Academy of Sciences"
+  },
+  {
+    "id": "Ellen-J.-Langer",
+    "name": "Ellen J. Langer",
+    "image": "/images/media/16.png",
+    "role": "WAAC Academician, Association for Psychological Science (APS) Fellow",
+    "description": "Psychology; mindfulness and consciousness",
+    "institution": "WAAC Academician, Association for Psychological Science (APS) Fellow"
+  },
+  {
+    "id": "Diana-Reiss",
+    "name": "Diana Reiss",
+    "image": "/images/media/17.png",
+    "role": "WAAC Academician, American Association for the Advancement of Science (AAAS) Fellow",
+    "description": "Dolphins and mirror self-recognition; animal consciousness",
+    "institution": "WAAC Academician, American Association for the Advancement of Science (AAAS) Fellow"
+  },
+  {
+    "id": "Dov-Sagi",
+    "name": "Dov Sagi",
+    "image": "/images/media/18.png",
+    "role": "WAAC Academician, Honors from the Israel Academy of Sciences and Humanities",
+    "description": "Visual visibility and learning; thresholds of consciousness",
+    "institution": "WAAC Academician, Honors from the Israel Academy of Sciences and Humanities"
+  },
+  {
+    "id": "Ehud-Ahissar",
+    "name": "Ehud Ahissar",
+    "image": "/images/media/19.png",
+    "role": "WAAC Academician, Head of Israel Science Foundation Center of Excellence",
+    "description": "Touch and active sensing; sensorimotor loops in consciousness",
+    "institution": "WAAC Academician, Head of Israel Science Foundation Center of Excellence"
+  },
+  {
+    "id": "Friedemann-Pulvermuller",
+    "name": "Friedemann Pulvermüller",
+    "image": "/images/media/20.png",
+    "role": "WAAC Academician, Member of the German Academy of Sciences",
+    "description": "Language and brain representations; consciousness and meaning",
+    "institution": "WAAC Academician, Member of the German Academy of Sciences"
+  },
+  {
+    "id": "Gualtiero-Piccinini",
+    "name": "Gualtiero Piccinini",
+    "image": "/images/media/21.png",
+    "role": "WAAC Academician, Honors from philosophy and computing societies",
+    "description": "Mechanistic and computational theories of consciousness",
+    "institution": "WAAC Academician, Honors from philosophy and computing societies"
+  },
+  {
+    "id": "Greg-DeAngelis",
+    "name": "Greg DeAngelis",
+    "image": "/images/media/22.png",
+    "role": "WAAC Academician, Member of the U.S. National Academy of Sciences",
+    "description": "Depth perception and stereopsis; conscious perception",
+    "institution": "WAAC Academician, Member of the U.S. National Academy of Sciences"
+  },
+  {
+    "id": "Erkki-Oja",
+    "name": "Erkki Oja",
+    "image": "/images/media/23.png",
+    "role": "WAAC Academician, IEEE Neural Networks Pioneer Award (2015)",
+    "description": "Independent component analysis (ICA) and Hebbian learning",
+    "institution": "WAAC Academician, IEEE Neural Networks Pioneer Award (2015)"
+  },
+  {
+    "id": "Giacomo-Indiveri",
+    "name": "Giacomo Indiveri",
+    "image": "/images/media/24.png",
+    "role": "WAAC Academician, Associate Fellow of Collegium Helveticum (Switzerland)",
+    "description": "Neuromorphic computing; cues to artificial consciousness",
+    "institution": "WAAC Academician, Associate Fellow of Collegium Helveticum (Switzerland)"
+  },
+  {
+    "id": "Ezequiel-Morsella",
+    "name": "Ezequiel Morsella",
+    "image": "/images/media/26.png",
+    "role": "WAAC Academician, Psychology society awards",
+    "description": "Passive frame theory; consciousness and action",
+    "institution": "WAAC Academician, Psychology society awards"
+  },
+  {
+    "id": "Étienne-Koechlin",
+    "name": "Étienne Koechlin",
+    "image": "/images/media/27.png",
+    "role": "WAAC Academician, Member of the French Academy of Sciences",
+    "description": "Prefrontal cortex and hierarchical control; conscious planning",
+    "institution": "WAAC Academician, Member of the French Academy of Sciences"
+  },
+  {
+    "id": "Cathy-J.-Price",
+    "name": "Cathy J. Price",
+    "image": "/images/media/28.png",
+    "role": "WAAC Academician, Fellow of the Royal Society (FRS)",
+    "description": "Language networks and reading; conscious comprehension",
+    "institution": "WAAC Academician, Fellow of the Royal Society (FRS)"
+  },
+  {
+    "id": "Geraint-Rees",
+    "name": "Geraint Rees",
+    "image": "/images/media/29.png",
+    "role": "WAAC Academician, Fellow of the Academy of Medical Sciences (2010)",
+    "description": "Brain networks and computation",
+    "institution": "WAAC Academician, Fellow of the Academy of Medical Sciences (2010)"
+  },
+  {
+    "id": "Seeram-Ramakrishna",
+    "name": "Seeram Ramakrishna",
+    "image": "/images/media/31.png",
+    "role": "WAAC Academician, International Fellow of the Royal Academy of Engineering (UK), Foreign Member of the Chinese Academy of Engineering, Fellow of the Singapore Academy of Engineering, Fellow of the Indian National Academy of Engineering, Fellow of the ASEAN Academy of Engineering and Technology, China Government Friendship Award (2024)",
+    "description": "Electrospun nanofibers; sustainable & circular materials; Materials–Devices–Systems roadmap; embodied intelligent systems",
+    "institution": "WAAC Academician, International Fellow of the Royal Academy of Engineering (UK), Foreign Member of the Chinese Academy of Engineering, Fellow of the Singapore Academy of Engineering, Fellow of the Indian National Academy of Engineering, Fellow of the ASEAN Academy of Engineering and Technology, China Government Friendship Award (2024)"
+  },
+  {
+    "id": "Fred-H.-Gage",
+    "name": "Fred H. Gage",
+    "image": "/images/media/32.png",
+    "role": "WAAC Academician, Member of the U.S. National Academy of Sciences (1999)",
+    "description": "Adult neurogenesis and neural plasticity",
+    "institution": "WAAC Academician, Member of the U.S. National Academy of Sciences (1999)"
+  },
+  {
+    "id": "Giacomo-Rizzolatti",
+    "name": "Giacomo Rizzolatti",
+    "image": "/images/media/34.png",
+    "role": "WAAC Academician, Member of multiple national academies",
+    "description": "Mirror neurons; self–other representation and consciousness",
+    "institution": "WAAC Academician, Member of multiple national academies"
+  },
+  {
+    "id": "Jean-Decety",
+    "name": "Jean Decety",
+    "image": "/images/media/35.png",
+    "role": "WAAC Academician, Fellow of the American Academy of Arts and Sciences",
+    "description": "Empathy and self–other representation; consciousness and sociality",
+    "institution": "WAAC Academician, Fellow of the American Academy of Arts and Sciences"
+  },
+  {
+    "id": "David-Gamez",
+    "name": "David Gamez",
+    "image": "/images/media/37.png",
+    "role": "WAAC Academician, UK Research Council funding",
+    "description": "Machine consciousness; measures and evaluation of consciousness",
+    "institution": "WAAC Academician, UK Research Council funding"
+  },
+  {
+    "id": "Jean-Pierre-Changeux",
+    "name": "Jean-Pierre Changeux",
+    "image": "/images/media/38.png",
+    "role": "WAAC Academician, Member of the French Academy of Sciences (1977)",
+    "description": "Allosteric receptor theory; neural basis of cognition",
+    "institution": "WAAC Academician, Member of the French Academy of Sciences (1977)"
+  },
+  {
+    "id": "Julia-B.-Hirschberg",
+    "name": "Julia B. Hirschberg",
+    "image": "/images/media/39.png",
+    "role": "WAAC Academician, Association for the Advancement of Artificial Intelligence (AAAI) Fellow",
+    "description": "Speech processing; language–consciousness interaction",
+    "institution": "WAAC Academician, Association for the Advancement of Artificial Intelligence (AAAI) Fellow"
+  },
+  {
+    "id": "Andreas-Bartels",
+    "name": "Andreas Bartels",
+    "image": "/images/media/40.png",
+    "role": "WAAC Academician, German Research Foundation (DFG) funding",
+    "description": "Vision and consciousness; feedback and context",
+    "institution": "WAAC Academician, German Research Foundation (DFG) funding"
+  },
+  {
+    "id": "Kenneth-Williford",
+    "name": "Kenneth Williford",
+    "image": "/images/media/41.png",
+    "role": "WAAC Academician, Philosophy society honors",
+    "description": "Phenomenology and time; philosophy of consciousness",
+    "institution": "WAAC Academician, Philosophy society honors"
+  },
+  {
+    "id": "Luigi-De-Gennaro",
+    "name": "Luigi De Gennaro",
+    "image": "/images/media/42.png",
+    "role": "WAAC Academician, Italian National Research Council funding",
+    "description": "Sleep and wakefulness; levels of consciousness",
+    "institution": "WAAC Academician, Italian National Research Council funding"
+  },
+  {
+    "id": "Mara-Mather",
+    "name": "Mara Mather",
+    "image": "/images/media/43.png",
+    "role": "WAAC Academician, Association for Psychological Science (APS) Fellow",
+    "description": "Attention and emotion; aging and consciousness",
+    "institution": "WAAC Academician, Association for Psychological Science (APS) Fellow"
+  },
+  {
+    "id": "Gerwin-Schalk",
+    "name": "Gerwin Schalk",
+    "image": "/images/media/44.png",
+    "role": "WAAC Academician, Fellow",
+    "description": "Brain–computer interfaces (BCIs) and communication; disorders of consciousness",
+    "institution": "WAAC Academician, Fellow"
+  },
+  {
+    "id": "Michael-N.-Shadlen",
+    "name": "Michael N. Shadlen",
+    "image": "/images/media/45.png",
+    "role": "WAAC Academician, Member of the U.S. National Academy of Sciences",
+    "description": "Neural mechanisms of decision-making and consciousness",
+    "institution": "WAAC Academician, Member of the U.S. National Academy of Sciences"
+  },
+  {
+    "id": "Michael-X.-Cohen",
+    "name": "Michael X. Cohen",
+    "image": "/images/media/46.png",
+    "role": "WAAC Academician, Netherlands Organisation for Scientific Research (NWO) funding",
+    "description": "Neural oscillations and information integration; metrics of consciousness",
+    "institution": "WAAC Academician, Netherlands Organisation for Scientific Research (NWO) funding"
+  },
+  {
+    "id": "Ned-Block",
+    "name": "Ned Block",
+    "image": "/images/media/47.png",
+    "role": "WAAC Academician, Member of the U.S. National Academy of Sciences",
+    "description": "Philosophy; phenomenal vs. access consciousness",
+    "institution": "WAAC Academician, Member of the U.S. National Academy of Sciences"
+  },
+  {
+    "id": "Michael-Graziano",
+    "name": "Michael Graziano",
+    "image": "/images/media/48.png",
+    "role": "WAAC Academician, Member of the U.S. National Academy of Sciences",
+    "description": "Cognitive neuroscience; Attention Schema Theory",
+    "institution": "WAAC Academician, Member of the U.S. National Academy of Sciences"
+  },
+  {
+    "id": "Philip-H.-S.-Torr",
+    "name": "Philip H. S. Torr",
+    "image": "/images/media/49.png",
+    "role": "WAAC Academician, Fellow of the Royal Society (2023)",
+    "description": "Deep learning for scene understanding and recognition",
+    "institution": "WAAC Academician, Fellow of the Royal Society (2023)"
+  },
+  {
+    "id": "Peter-Bentley",
+    "name": "Peter Bentley",
+    "image": "/images/media/50.png",
+    "role": "WAAC Academician, Computer society and popular science awards",
+    "description": "Evolution and self-organization; cues to artificial consciousness",
+    "institution": "WAAC Academician, Computer society and popular science awards"
+  },
+  {
+    "id": "Roi-Cohen-Kadosh",
+    "name": "Roi Cohen Kadosh",
+    "image": "/images/media/51.png",
+    "role": "WAAC Academician, British Academy research fellowship honors",
+    "description": "Non-invasive stimulation and cognition; consciousness and numerical processing",
+    "institution": "WAAC Academician, British Academy research fellowship honors"
+  },
+  {
+    "id": "Rattan-Lal",
+    "name": "Rattan Lal",
+    "image": "/images/media/52.png",
+    "role": "WAAC Academician, World Food Prize (2020)",
+    "description": "Soil carbon sequestration; sustainable agriculture practices",
+    "institution": "WAAC Academician, World Food Prize (2020)"
+  },
+  {
+    "id": "Roi-Reichart",
+    "name": "Roi Reichart",
+    "image": "/images/media/55.png",
+    "role": "WAAC Academician, Israel Science Foundation funding",
+    "description": "Language and AI; interpretability and consciousness",
+    "institution": "WAAC Academician, Israel Science Foundation funding"
+  },
+  {
+    "id": "Ruzena-Bajcsy",
+    "name": "Ruzena Bajcsy",
+    "image": "/images/media/56.png",
+    "role": "WAAC Academician, U.S. National Academy of Engineering (1998)",
+    "description": "Computer vision",
+    "institution": "WAAC Academician, U.S. National Academy of Engineering (1998)"
+  },
+  {
+    "id": "Risto-J.-Ilmoniemi",
+    "name": "Risto J. Ilmoniemi",
+    "image": "/images/media/57.png",
+    "role": "WAAC Academician, Finnish Academy (Academician)",
+    "description": "Neurotechnology; consciousness and cortical excitability",
+    "institution": "WAAC Academician, Finnish Academy (Academician)"
+  },
+  {
+    "id": "Stephen-P.-Boyd",
+    "name": "Stephen P. Boyd",
+    "image": "/images/media/58.png",
+    "role": "WAAC Academician, U.S. National Academy of Engineering (2017)",
+    "description": "Convex optimization and control engineering",
+    "institution": "WAAC Academician, U.S. National Academy of Engineering (2017)"
+  },
+  {
+    "id": "Ron-Chrisley",
+    "name": "Ron Chrisley",
+    "image": "/images/media/60.png",
+    "role": "WAAC Academician, Fulbright Scholar",
+    "description": "Machine Consciousness and Theories of Representation",
+    "institution": "WAAC Academician, Fulbright Scholar"
+  },
+  {
+    "id": "Maiken-Nedergaard",
+    "name": "Maiken Nedergaard",
+    "image": "/images/media/61.png",
+    "role": "WAAC Academician, Member Academia Europaea, etc",
+    "description": "Glymphatic system; sleep- and consciousness-driven clearance",
+    "institution": "WAAC Academician, Member Academia Europaea, etc"
+  },
+  {
+    "id": "Wwodziswaw-Duch",
+    "name": "Włodzisław Duch",
+    "image": "/images/media/62.png",
+    "role": "WAAC Academician, President of ENNS, etc",
+    "description": "Cognitive architectures and consciousness, Artificial life",
+    "institution": "WAAC Academician, President of ENNS, etc"
+  },
+  {
+    "id": "Minoru-Asada",
+    "name": "Minoru Asada",
+    "image": "/images/media/64.png",
+    "role": "WAAC Academician, IEEE Fellow, etc",
+    "description": "Cognitive Developmental Robotics",
+    "institution": "WAAC Academician, IEEE Fellow, etc"
+  },
+  {
+    "id": "Nicola-S.-Clayton",
+    "name": "Nicola S. Clayton",
+    "image": "/images/media/65.png",
+    "role": "WAAC Academician, Fellow of the Royal Society, etc",
+    "description": "Corvid Cognition and Future Planning; Consciousness Indicators",
+    "institution": "WAAC Academician, Fellow of the Royal Society, etc"
+  },
+  {
+    "id": "Nicholas-G.-Hatsopoulos",
+    "name": "Nicholas G. Hatsopoulos",
+    "image": "/images/media/66.png",
+    "role": "WAAC Academician, etc",
+    "description": "Motor Coding and Conscious Communication",
+    "institution": "WAAC Academician, etc"
+  },
+  {
+    "id": "Nilli-Lavie",
+    "name": "Nilli Lavie",
+    "image": "/images/media/67.png",
+    "role": "WAAC Academician,FBA, etc",
+    "description": "Load Theory; the relationship between attention and consciousness.",
+    "institution": "WAAC Academician,FBA, etc"
+  },
+  {
+    "id": "Timothy-F.-Brady",
+    "name": "Timothy F. Brady",
+    "image": "/images/media/68.png",
+    "role": "WAAC Academician, etc",
+    "description": "Visual Working Memory and Consciousness.",
+    "institution": "WAAC Academician, etc"
+  },
+  {
+    "id": "Axel-Cleeremans",
+    "name": "Axel Cleeremans",
+    "image": "/images/media/69.png",
+    "role": "WAAC Academician, Academician of the Royal Academy of Belgium, etc",
+    "description": "Implicit Learning and Consciousness; Reportability and Metacognition.",
+    "institution": "WAAC Academician, Academician of the Royal Academy of Belgium, etc"
+  },
+  {
+    "id": "Shuo-Yen-Robert-Li",
+    "name": "Shuo-Yen Robert Li",
+    "image": "/images/media/70.png",
+    "role": "WAAC Academician, IEEE Eric E. Sumner Award, etc",
+    "description": "Network coding, Switching theory & switching system.",
+    "institution": "WAAC Academician, IEEE Eric E. Sumner Award, etc"
+  },
+  {
+    "id": "Yixin-Zhong",
+    "name": "Yixin Zhong",
+    "image": "/images/media/71.png",
+    "role": "WAAC Academician, AETDEW Academician，NYAS Member, etc",
+    "description": "Communication Theory; Information Theory; Information Science; AI.",
+    "institution": "WAAC Academician, AETDEW Academician，NYAS Member, etc"
+  }
+]
