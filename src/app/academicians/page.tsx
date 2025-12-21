@@ -21,7 +21,7 @@ export default function Academicians() {
                             transition={{ delay: Math.min(i * 0.02, 0.4) }}
                         >
                             <Card className="rounded-2xl border-slate-100 overflow-hidden shadow-sm hover:shadow-lg transition-all flex flex-col h-full bg-white group">
-                                <div className="relative h-48 w-full bg-slate-50 border-b border-slate-50 italic">
+                                <div className="relative aspect-square w-full bg-slate-50 border-b border-slate-50 italic">
                                     <Image
                                         src={member.image || "/images/waac_logo.png"}
                                         alt={member.name}

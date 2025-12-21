@@ -42,8 +42,8 @@ export function Navbar() {
                         <Image
                             src="/images/waac_logo.png"
                             alt="WAAC Logo"
-                            width={200}
-                            height={50}
+                            width={300}
+                            height={75}
                             className="h-12 w-auto"
                         />
                     </Link>
