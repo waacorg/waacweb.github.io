@@ -527,14 +527,7 @@
     "description": "Visual Working Memory and Consciousness.",
     "institution": "WAAC Academician, etc"
   },
-  {
-    "id": "Axel-Cleeremans",
-    "name": "Axel Cleeremans",
-    "image": "/images/media/69.png",
-    "role": "WAAC Academician, Academician of the Royal Academy of Belgium, etc",
-    "description": "Implicit Learning and Consciousness; Reportability and Metacognition.",
-    "institution": "WAAC Academician, Academician of the Royal Academy of Belgium, etc"
-  },
+  
   {
     "id": "Shuo-Yen-Robert-Li",
     "name": "Shuo-Yen Robert Li",
@@ -550,5 +543,30 @@
     "role": "WAAC Academician, AETDEW Academician，NYAS Member, etc",
     "description": "Communication Theory; Information Theory; Information Science; AI.",
     "institution": "WAAC Academician, AETDEW Academician，NYAS Member, etc"
+  },
+  {
+    "id": "Axel-Cleeremans",
+    "name": "Axel Cleeremans",
+    "image": "/images/media/69.png",
+    "role": "WAAC Academician, Academician of the Royal Academy of Belgium, etc",
+    "description": "Implicit Learning and Consciousness; Reportability and Metacognition.",
+    "institution": "WAAC Academician, Academician of the Royal Academy of Belgium, etc"
+  },
+  {
+    "id": "Antonio Chella",
+    "name": "Antonio Chella",
+    "image": "/images/media/72.png",
+    "role": "WAAC Honorary Academician, Research Associate (ICAR-CNR), etc",
+    "description": "Cognitive Robotics; Machine Consciousness; Cognitive Architectures.",
+    "institution": "WAAC Honorary Academician, Research Associate (ICAR-CNR), etc"
+  }
+  ,
+  {
+    "id": "Yucong Duan",
+    "name": "Yucong Duan",
+    "image": "/images/YCD.jpg",
+    "role": "WAAC Honorary Academician, NAAI MEMBER，EAI Fellow, etc",
+    "description": "DIKWP; Artificial Consciousness; Semantic Mathematics.",
+    "institution": "WAAC Honorary Academician, NAAI MEMBER，EAI Fellow, etc"
   }
 ]
