@@ -569,4 +569,29 @@
     "description": "DIKWP; Artificial Consciousness; Semantic Mathematics.",
     "institution": "WAAC Honorary Academician, NAAI MEMBER，EAI Fellow, etc"
   }
+  ,{
+    "id": "Susan Greenfield",
+    "name": "Susan Greenfield",
+    "image": "/images/media/75.png",
+    "role": "WAAC Academician; Founder & CEO (Neuro-Bio Ltd).",
+    "description": "Brain mechanisms; Consciousness; Effects of digital technology on the brain and cognition.",
+    "institution": "University of Oxford; Neuro-Bio Ltd"
+  },
+  {
+    "id": "Yuval Noah Harari",
+    "name": "Yuval Noah Harari",
+    "image": "/images/media/74.png",
+    "role": "WAAC Academician; Professor of History; Distinguished Research Fellow",
+    "description": "World History; Medieval History; Military History; Big-history perspectives on technology-era civilizational choices.",
+    "institution": "The Hebrew University of Jerusalem; University of Cambridge (CSER)"
+  },
+  {
+    "id": "Christof Koch",
+    "name": "Christof Koch",
+    "image": "/images/media/76.png",
+    "role": "WAAC Academician; Meritorious Investigator; Neuroscientist and Computational Neuroscientist",
+    "description": "Neuroscience of consciousness; Visual perception and attention; Computational/theoretical neuroscience.",
+    "institution": "Allen Institute for Brain Science"
+  }
+  
 ]
