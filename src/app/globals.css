@@ -123,3 +123,53 @@
     @apply bg-background text-foreground;
   }
 }
+.news-html-content {
+  line-height: 1.9;
+  color: #475569;
+}
+
+.news-html-content {
+  line-height: 1.9;
+  color: #475569;
+}
+
+/* 正文统一两端对齐 */
+.news-html-content p,
+.news-html-content li,
+.news-html-content td,
+.news-html-content th {
+  text-align: justify !important;
+  text-justify: inter-word;
+  word-break: normal;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+/* 如果 Word/WPS 导出内容很多 div 包裹，也一起处理 */
+.news-html-content div {
+  overflow-wrap: break-word;
+}
+
+/* 图片统一居中 */
+.news-html-content img {
+  display: block !important;
+  margin: 1.5rem auto !important;
+  max-width: 100%;
+  height: auto !important;
+}
+
+/* 表格不要撑破页面 */
+.news-html-content table {
+  max-width: 100%;
+  width: 100%;
+  margin: 1.5rem auto;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+
+/* 处理 Word/WPS 导出的 figure 或包裹层 */
+.news-html-content figure {
+  margin: 1.5rem auto !important;
+  text-align: center !important;
+}
