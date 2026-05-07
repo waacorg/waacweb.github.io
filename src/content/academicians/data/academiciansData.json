@@ -48,6 +48,14 @@
     "institution": "WAAC Academician, Nobel Prize in Physiology or Medicine(2014)"
   },
   {
+    "id": "Harvey J. Alter",
+    "name": "Harvey J. Alter",
+    "image": "/images/media/80.png",
+    "role": "WAAC Academician; Nobel Laureate in Physiology or Medicine; Virologist and Medical Researcher",
+    "description": "Hepatitis C virus discovery; Transfusion medicine; Viral hepatitis diagnostics; Blood safety; Global public-health security.",
+    "institution": "National Institutes of Health"
+  },
+  {
     "id": "Ronald-L.-Rivest",
     "name": "Ronald L. Rivest",
     "image": "/images/media/54.png",
@@ -592,6 +600,30 @@
     "role": "WAAC Academician; Meritorious Investigator; Neuroscientist and Computational Neuroscientist",
     "description": "Neuroscience of consciousness; Visual perception and attention; Computational/theoretical neuroscience.",
     "institution": "Allen Institute for Brain Science"
+  },
+  {
+    "id": "Thorsten Jelinek",
+    "name": "Thorsten Jelinek",
+    "image": "/images/media/77.png",
+    "role": "WAAC Academician; Digital Governance and International Policy Expert; Fellow of the Centre for Digital Governance",
+    "description": "Digital sovereignty; Privacy and data governance; Cybersecurity regulation; AI governance; International digital policy.",
+    "institution": "Hertie School Centre for Digital Governance"
+  },
+  {
+    "id": "Jürgen Schmidhuber",
+    "name": "Jürgen Schmidhuber",
+    "image": "/images/media/78.png",
+    "role": "WAAC Academician; Professor of Computer Science; Pioneer in Deep Learning and Generative AI",
+    "description": "Deep learning; Long Short-Term Memory networks; Sequence learning; Generative AI; Autonomous and self-improving intelligent systems.",
+    "institution": "King Abdullah University of Science and Technology"
+  },
+  {
+    "id": "Andrey Yu. Shcherbakov",
+    "name": "Andrey Yu. Shcherbakov",
+    "image": "/images/media/79.png",
+    "role": "WAAC Corresponding Academician; Professor; Information Security and Digital-Economy Security Scholar",
+    "description": "Information security; Applied cryptography; Risk governance; Trusted digital infrastructure; Digital finance and data security.",
+    "institution": "Gubkin Russian State University of Oil and Gas"
   }
   
 ]
