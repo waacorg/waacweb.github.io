@@ -624,6 +624,13 @@
     "role": "WAAC Corresponding Academician; Professor; Information Security and Digital-Economy Security Scholar",
     "description": "Information security; Applied cryptography; Risk governance; Trusted digital infrastructure; Digital finance and data security.",
     "institution": "Gubkin Russian State University of Oil and Gas"
+  },
+  {
+    "id": "Eric Schwitzgebel",
+    "name": "Eric Schwitzgebel",
+    "image": "/images/media/81.png",
+    "role": "WAAC Academician; Professor of Philosophy; Philosophy of Mind and AI Ethics Scholar",
+    "description": "Consciousness Uncertainty and the Moral Status of AI Systems",
+    "institution": "University of California, Riverside"
   }
-  
 ]
