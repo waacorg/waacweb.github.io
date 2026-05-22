@@ -640,5 +640,13 @@
     "role": "WAAC Academician; Professor of Psychology; Consciousness Neuroscience and Integrated Information Theory Scholar",
     "description": "Consciousness neuroscience; Neural correlates of consciousness; Integrated Information Theory; Qualia structure; Category-theoretic approaches to consciousness; Artificial consciousness foundations.",
     "institution": "Monash University"
-  }
+  },
+  {
+  "id": "Rufin VanRullen",
+  "name": "Rufin VanRullen",
+  "image": "/images/media/83_per.png",
+  "role": "WAAC Academician; CNRS Research Director; Cognitive Neuroscience and Brain-Inspired AI Scholar",
+  "description": "Cognitive neuroscience; Visual perception; Neural oscillations; Deep learning; Brain-inspired artificial intelligence; Global Workspace Theory; Global Latent Workspace; Artificial consciousness computational models.",
+  "institution": "Centre de Recherche Cerveau & Cognition (CerCo), CNRS, University of Toulouse"
+}
 ]
