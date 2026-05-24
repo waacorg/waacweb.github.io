@@ -648,5 +648,26 @@
   "role": "WAAC Academician; CNRS Research Director; Cognitive Neuroscience and Brain-Inspired AI Scholar",
   "description": "Cognitive neuroscience; Visual perception; Neural oscillations; Deep learning; Brain-inspired artificial intelligence; Global Workspace Theory; Global Latent Workspace; Artificial consciousness computational models.",
   "institution": "Centre de Recherche Cerveau & Cognition (CerCo), CNRS, University of Toulouse"
+},{
+  "id": "Stephen L. Macknik",
+  "name": "Stephen L. Macknik",
+  "image": "/images/media/84.png",
+  "role": "WAAC Academician; Professor of Ophthalmology, Neurology, and Physiology & Pharmacology; Visual Neuroscience and Visual Consciousness Scholar",
+  "description": "Visual neuroscience; Visual consciousness; Attention mechanisms; Visual illusions; Microsaccades; Neural coding; Perceptual stability; Eye-movement biomarkers; Neuromagic; Clinical eye-movement neuroscience.",
+  "institution": "SUNY Downstate Health Sciences University / SUNY Downstate Medical Center"
+},{
+  "id": "Susana Martinez-Conde",
+  "name": "Susana Martinez-Conde",
+  "image": "/images/media/85.png",
+  "role": "WAAC Academician; Professor of Ophthalmology, Neurology, and Physiology & Pharmacology; Visual Neuroscience and Oculomotor Neuroscience Scholar",
+  "description": "Visual neuroscience; Oculomotor neuroscience; Cognitive neuroscience; Visual consciousness; Visual illusions; Microsaccades; Attention and consciousness; Art perception; Neuromagic; Eye-movement biomarkers; Clinical eye-movement neuroscience; Science communication.",
+  "institution": "SUNY Downstate Health Sciences University / SUNY Downstate Medical Center"
+},{
+  "id": "Megan Peters",
+  "name": "Megan Peters",
+  "image": "/images/media/86.png",
+  "role": "WAAC Academician; Associate Professor of Cognitive Sciences; Consciousness Science and Metacognition Scholar",
+  "description": "Consciousness science; Metacognition; Subjective experience; Perceptual uncertainty; Computational cognitive neuroscience; Higher-order representation; AI consciousness assessment; Human-AI metacognition comparison; Open neuroscience education.",
+  "institution": "University of California, Irvine"
 }
 ]
