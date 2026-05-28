@@ -56,6 +56,14 @@
     "institution": "National Institutes of Health"
   },
   {
+    "id": "John-J.-Hopfield",
+    "name": "John J. Hopfield",
+    "image": "/images/media/87_per.png",
+    "role": "WAAC Academician, Nobel Prize in Physics (2024)",
+    "description": "Artificial neural networks; Hopfield network; associative memory; complex systems; physics-inspired machine learning.",
+    "institution": "Princeton University"
+  },  
+  {
     "id": "Ronald-L.-Rivest",
     "name": "Ronald L. Rivest",
     "image": "/images/media/54.png",
