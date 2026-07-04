@@ -677,5 +677,41 @@
   "role": "WAAC Academician; Associate Professor of Cognitive Sciences; Consciousness Science and Metacognition Scholar",
   "description": "Consciousness science; Metacognition; Subjective experience; Perceptual uncertainty; Computational cognitive neuroscience; Higher-order representation; AI consciousness assessment; Human-AI metacognition comparison; Open neuroscience education.",
   "institution": "University of California, Irvine"
+},{
+  "id": "Amy Kind",
+  "name": "Amy Kind",
+  "image": "/images/media/87.png",
+  "role": "WAAC Academician; Russell K. Pitzer Professor of Philosophy; Director of the Gould Center for Humanistic Studies; Philosophy of Mind and Consciousness Scholar",
+  "description": "Philosophy of imagination; Consciousness studies; Philosophy of mind; Personal identity; Introspection; Self-knowledge; Artificial consciousness.",
+  "institution": "Claremont McKenna College"
+},
+{
+  "id": "Rubén Moreno-Bote",
+  "name": "Rubén Moreno-Bote",
+  "image": "/images/media/88.png",
+  "role": "WAAC Academician; Serra Húnter Professor; Head of the Theoretical and Cognitive Neuroscience Group; Computational and Cognitive Neuroscience Scholar",
+  "description": "Computational neuroscience; Cognitive neuroscience; Neural population coding; Decision-making; Confidence judgment; Intrinsic motivation; Brain-inspired intelligence; Artificial consciousness.",
+  "institution": "Universitat Pompeu Fabra"
+},{
+  "id": "Gary E. Schwartz",
+  "name": "Gary E. Schwartz",
+  "image": "/images/media/89.png",
+  "role": "WAAC Academician; Director of the Laboratory for Advances in Consciousness and Health",
+  "description": "Consciousness studies; Psychophysiology; Mind-body medicine; Self-regulation; Survival hypothesis; Energy healing; Health psychology; Artificial consciousness.",
+  "institution": "Laboratory for Advances in Consciousness and Health"
+},{
+  "id": "Marilyn Schlitz",
+  "name": "Marilyn Schlitz",
+  "image": "/images/media/90.png",
+  "role": "WAAC Academician; Professor of Transpersonal Psychology; Former President and CEO of the Institute of Noetic Sciences",
+  "description": "Consciousness studies; Transpersonal psychology; Human transformation; Mind-body healing; Noetic sciences; Consciousness of death; Worldview transformation; Artificial consciousness.",
+  "institution": "Sofia University / Institute of Noetic Sciences"
+},{
+  "id": "Stanley Krippner",
+  "name": "Stanley Krippner",
+  "image": "/images/media/91.png",
+  "role": "WAAC Academician; Former Alan Watts Professor of Psychology; Affiliated Distinguished Faculty",
+  "description": "Consciousness studies; Dream research; Transpersonal psychology; Hypnosis; Altered states of consciousness; Personal mythology; Shamanic studies; Anomalous experience; Artificial consciousness.",
+  "institution": "Saybrook University / California Institute of Integral Studies"
 }
 ]
