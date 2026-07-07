@@ -727,5 +727,61 @@
   "role": "WAAC Academician; Director / Co-Director and Senior Investigator; Emeritus Director",
   "description": "Systems neuroscience; Primate brain research; Neuroimaging; Electrophysiology; Visual perception; Object recognition; Neurovascular coupling; Learning and memory; Neural mechanisms of consciousness; Brain-inspired intelligence; Artificial consciousness.",
   "institution": "International Center for Primate Brain Research / Max Planck Institute for Biological Cybernetics"
+},{
+  "id": "Trevor W. Robbins",
+  "name": "Trevor W. Robbins",
+  "image": "/images/media/921.png",
+  "role": "WAAC Academician; Professor of Cognitive Neuroscience; Member of the Royal Society; Member of the Academy of Medical Sciences",
+  "description": "Cognitive neuroscience; Behavioural neuroscience; Neuropsychopharmacology; Prefrontal cortex function; Reward and motivational mechanisms; Attention and executive control; Impulsive and compulsive behaviour; Neuropsychiatric disorders; Computerized neuropsychological assessment; Artificial consciousness.",
+  "institution": "University of Cambridge"
+},{
+  "id": "Bruno Siciliano",
+  "name": "Bruno Siciliano",
+  "image": "/images/media/93.png",
+  "role": "WAAC Academician; Professor of Control and Robotics; Director of PRISMA Lab; Chair of the ICAROS Scientific Committee; Honorary Professor and Rudolf Kálmán Chair",
+  "description": "Robot control; Robotic manipulation; Human–robot collaboration; Service robotics; Medical and surgical robotics; Industrial robotics; Aerial robotics; Embodied intelligence; Autonomous systems; Robotics education; Artificial consciousness.",
+  "institution": "University of Naples Federico II / Óbuda University"
+},{
+  "id": "Christoph Lütge",
+  "name": "Christoph Lütge",
+  "image": "/images/media/94.png",
+  "role": "WAAC Academician; Peter Löscher Chair of Business Ethics and Global Governance; Director of the TUM Institute for Ethics in Artificial Intelligence; Distinguished Visiting Professor",
+  "description": "Artificial intelligence ethics; Business ethics; Digital technology ethics; Robotics and AI ethics; Autonomous driving ethics; Corporate social responsibility; Technology risk governance; International AI governance; Ethical institutional design; Artificial consciousness.",
+  "institution": "Technical University of Munich / University of Tokyo"
+},{
+  "id": "Botond Roska",
+  "name": "Botond Roska",
+  "image": "/images/media/95.png",
+  "role": "WAAC Academician; Director of Science; Professor",
+  "description": "Visual neuroscience; Retinal neural circuits; Central visual pathways; Visual information processing; Cell-type-specific neural mechanisms; Retinal diseases; Gene therapy; Optogenetic vision restoration; Neural repair; Artificial consciousness.",
+  "institution": "Institute of Molecular and Clinical Ophthalmology Basel / University of Basel"
+},{
+  "id": "Witold Pedrycz",
+  "name": "Witold Pedrycz",
+  "image": "/images/media/96.png",
+  "role": "WAAC Academician; Professor of Electrical and Computer Engineering; Canada Research Chair in Computational Intelligence; Scholar at the Systems Research Institute",
+  "description": "Computational intelligence; Granular computing; Fuzzy systems; Information granules; Neuro-fuzzy systems; Data-driven modeling; Knowledge discovery; Pattern recognition; Human-centric intelligent systems; Intelligent decision support; Artificial consciousness.",
+  "institution": "University of Alberta / Systems Research Institute, Polish Academy of Sciences"
+},{
+  "id": "Arogyaswami J. Paulraj",
+  "name": "Arogyaswami J. Paulraj",
+  "image": "/images/media/97.png",
+  "role": "WAAC Academician; Professor Emeritus of Electrical Engineering; Member of the U.S. National Academy of Engineering; Foreign Member of the Chinese Academy of Engineering",
+  "description": "Wireless communications; MIMO technology; Space-time signal processing; Intelligent communication systems; Broadband wireless networks; 4G/5G technologies; High-speed Wi-Fi; Communication engineering; Global information infrastructure; Artificial consciousness.",
+  "institution": "Stanford University"
+},{
+  "id": "Michael Posner",
+  "name": "Michael Posner",
+  "image": "/images/media/98.png",
+  "role": "WAAC Academician; Professor Emeritus of Psychology; Member of the U.S. National Academy of Sciences; Recipient of the U.S. National Medal of Science",
+  "description": "Attention networks; Cognitive neuroscience; Cognitive control; Attentional regulation; Developmental cognitive neuroscience; Self-regulation; Brain network mechanisms; Attention and consciousness; Artificial consciousness.",
+  "institution": "University of Oregon"
+},{
+  "id": "Chunhui Wang",
+  "name": "Chunhui Wang",
+  "image": "/images/media/99.png",
+  "role": "WAAC Academician; Dual-appointed Professor and Doctoral Supervisor; Chief Expert of the Research Base for International Cyberspace Governance",
+  "description": "Cyberspace governance; Digital economy strategy and law; Data factor systems; Data security governance; Personal information protection; Public data resources; Artificial intelligence governance; Digital ethics; International cyberspace rules; Artificial consciousness.",
+  "institution": "Zhejiang University / Research Base for Cyberspace Governance and Digital Economy Rule of Law in the Yangtze River Delta"
 }
 ]
