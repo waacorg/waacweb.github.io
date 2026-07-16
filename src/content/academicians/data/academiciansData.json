@@ -783,5 +783,78 @@
   "role": "WAAC Academician; Dual-appointed Professor and Doctoral Supervisor; Chief Expert of the Research Base for International Cyberspace Governance",
   "description": "Cyberspace governance; Digital economy strategy and law; Data factor systems; Data security governance; Personal information protection; Public data resources; Artificial intelligence governance; Digital ethics; International cyberspace rules; Artificial consciousness.",
   "institution": "Zhejiang University / Research Base for Cyberspace Governance and Digital Economy Rule of Law in the Yangtze River Delta"
-}
+},
+{
+  "id": "Rodrigo Ferrão de Paiva Martins",
+  "name": "Rodrigo Ferrão de Paiva Martins",
+  "image": "/images/media/100.png",
+  "role": "WAAC Academician; Full Professor; President of the European Academy of Sciences",
+  "description": "Advanced functional materials; Nanotechnology; Transparent electronics; Paper electronics; Oxide semiconductors; Flexible electronics; Intelligent sensing materials; Sustainable electronic technologies; Artificial consciousness.",
+  "institution": "NOVA University Lisbon / CENIMAT|i3N / CEMOP/UNINOVA"
+  },
+  {
+    "id": "Nikola K. Kasabov",
+    "name": "Nikola K. Kasabov",
+    "image": "/images/media/101.png",
+    "role": "WAAC Academician; Emeritus Professor of Knowledge Engineering; Founding Director of KEDRI",
+    "description": "Computational intelligence; Knowledge engineering; Evolving connectionist systems; Fuzzy neural networks; Spiking neural networks; NeuCube; Brain-inspired artificial intelligence; Neuroinformatics; Knowledge representation; Machine consciousness; Artificial consciousness.",
+    "institution": "Auckland University of Technology / Knowledge Engineering and Discovery Research Institute"
+    },
+    {
+      "id": "Takeo Kanade",
+      "name": "Takeo Kanade",
+      "image": "/images/media/104.png",
+      "role": "WAAC Academician; SCS Founders University Professor; Professor of Robotics and Computer Science",
+      "description": "Computer vision; Robotics; Machine perception; Three-dimensional vision; Motion analysis; Visual understanding; Autonomous driving; Medical robotics; Embodied intelligence; Artificial consciousness.",
+      "institution": "Carnegie Mellon University / Robotics Institute"
+      },
+      {
+        "id": "Vijay Kumar",
+        "name": "Vijay Kumar",
+        "image": "/images/media/105.png",
+        "role": "WAAC Academician; Nemirovsky Family Dean of Penn Engineering; Professor of Engineering",
+        "description": "Robotics; Multi-robot systems; Swarm robotics; Micro aerial robots; Autonomous flight; Cooperative control; Motion planning; Robotic perception and decision-making; Embodied intelligence; Artificial consciousness.",
+        "institution": "University of Pennsylvania / Penn Engineering"
+        },
+        {
+          "id": "Joanna J. Bryson",
+          "name": "Joanna J. Bryson",
+          "image": "/images/media/106.png",
+          "role": "WAAC Academician; Professor of Ethics and Technology",
+          "description": "AI ethics; Technology governance; Machine autonomy; AI policy; Cognitive science; Agent design; Robot ethics; AI accountability; Responsible artificial intelligence; Artificial consciousness.",
+          "institution": "Hertie School"
+          },{
+            "id": "Peter Stone",
+            "name": "Peter Stone",
+            "image": "/images/media/107.png",
+            "role": "WAAC Academician; Chair of Computer Science; Founding Director of Texas Robotics; Chief Scientist of Sony AI",
+            "description": "Artificial intelligence; Reinforcement learning; Multi-agent systems; Robotics; Autonomous agents; AI planning; Robot soccer; Autonomous driving; Social agents; Embodied intelligence; Artificial consciousness.",
+            "institution": "The University of Texas at Austin / Texas Robotics / Sony AI"
+            },
+            {
+              "id": "Garret Moddel",
+              "name": "Garret Moddel",
+              "image": "/images/media/108.png",
+              "role": "WAAC Academician; Professor Emeritus of Photonics and Quantum Engineering",
+              "description": "Photonics; Quantum engineering; Optoelectronic devices; Metal–insulator technology; Geometric diodes; Solar rectennas; Energy-conversion devices; Quantum vacuum energy; Consciousness–physical system interaction; Artificial consciousness.",
+              "institution": "University of Colorado Boulder"
+              },{
+                "id": "Yukie Nagai",
+                "name": "Yukie Nagai",
+                "image": "/images/media/109.png",
+                "role": "WAAC Academician; Project Professor; Director of the Cognitive Developmental Robotics Lab",
+                "description": "Cognitive developmental robotics; Computational neuroscience; Predictive processing; Embodied learning; Social cognitive development; Affective cognition; Human–robot interaction; Neurodiversity; Machine consciousness; Artificial consciousness.",
+                "institution": "The University of Tokyo / International Research Center for Neurointelligence"
+                },{
+                  "id": "Giorgio Metta",
+                  "name": "Giorgio Metta",
+                  "image": "/images/media/110.png",
+                  "role": "WAAC Academician; Scientific Director; Professor of Robotics",
+                  "description": "Humanoid robotics; Embodied artificial intelligence; Cognitive robotics; Bio-inspired systems; Robot learning; Sensorimotor intelligence; Tactile perception; Human–robot interaction; Physical AI; Artificial consciousness.",
+                  "institution": "Istituto Italiano di Tecnologia"
+                  }
+                  
+                
+              
+          
 ]
