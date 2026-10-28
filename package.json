@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "optimize-images": "python3 scripts/optimize_images.py",
+    "convert-pngs": "python3 scripts/convert_pngs_to_jpg.py"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",

@@ -44,7 +44,7 @@ const events: EventItem[] = [
     status: "Past",
     description:
       "Theme: Proactive Medicine: AI Embracing the Integration of Traditional and Modern Medicine.",
-    image: "/images/Annual_Meeting/Main4.png",
+    image: "/images/Annual_Meeting/Main4.jpg",
   },
   {
     title: "2nd World Conference on Artificial Consciousness (Prep) & 1st DIKWP Cup",
@@ -53,7 +53,7 @@ const events: EventItem[] = [
     status: "Past",
     description:
       "Preparatory meeting drawing leading figures from technology, ethics, and public policy.",
-    image: "/images/Annual_Meeting/Main1.png",
+    image: "/images/Annual_Meeting/Main1.jpg",
   },
   {
     title: "The Inaugural World Conference on Artificial Consciousness (AC2023)",
@@ -62,7 +62,7 @@ const events: EventItem[] = [
     status: "Past",
     description:
       "Co-hosted by the DIKWP research team at Hainan University and Nagasaki Institute of Applied Science.",
-    image: "/images/Annual_Meeting/Main3.png",
+    image: "/images/Annual_Meeting/Main3.jpg",
   },
 ]
 
